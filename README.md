@@ -1,4 +1,4 @@
-# Some Geographic Information in Shanghai  
+# Some Geographic Information of Shanghai  
 All the information is collected by me.  
 The geographic coordinates of all information are based on WGS84.  
 
