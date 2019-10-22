@@ -1,9 +1,9 @@
-# Some-geographic-information-in-Shanghai
-All the information is collected by me.<br/>
-The geographic coordinates of all information are based on WGS84.<br/><br/><br/>
+# Some-geographic-information-in-Shanghai  
+All the information is collected by me.  
+The geographic coordinates of all information are based on WGS84.  
 
-2019.4.18 UPDATE<br/>
-KFC|肯德基<br/>
-Mcdonalds|麦当劳<br/>
-Starbucks|星巴克<br/>
-Pizzahut|必胜客<br/>
+### 2019.4.18 UPDATE  
+KFC|肯德基  
+Mcdonalds|麦当劳  
+Starbucks|星巴克  
+Pizzahut|必胜客  
